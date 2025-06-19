@@ -5,4 +5,9 @@
 
 function generarTablaMultiplicar($num) {
     // Tu código aquí
+    for ($i = 1 ; $i <=10 ; $i++ ){
+        $resultado = $i * $num;
+        echo $resultado . "<br>";
+    }
+    $num = 2;
 }

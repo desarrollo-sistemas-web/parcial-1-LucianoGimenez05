@@ -7,4 +7,5 @@
 
 function encontrarPalabras($cadena, $palabras) {
     //Tu código aquí
+  
 }

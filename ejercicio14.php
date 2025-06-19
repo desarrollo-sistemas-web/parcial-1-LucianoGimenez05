@@ -6,6 +6,6 @@
 // 🧠 Pista: Un número primo no debe tener divisores entre 2 y sqrt($num).
 
 function esPrimo($num) {
-
+ 
 }
 

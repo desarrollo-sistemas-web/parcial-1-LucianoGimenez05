@@ -6,5 +6,7 @@
 //🧠 Pista: PHP tiene una función llamada array_reverse.
 
 function invertirArray($arreglo){
+    $arregla = array_reverse($arreglo);
+    return $arregla;
     
 }
